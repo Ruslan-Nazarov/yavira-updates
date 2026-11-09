@@ -10,7 +10,7 @@
   "jarUrl": "https://github.com/Ruslan-Nazarov/yavira-updates/releases/download/v1.1.2/Yavira.jar",
   "jarSha256": "A8CC48BBCF3443A32D0C1F4587FA24372ECB192B3716F14335C5BF0B4E293419",
   "apkUrl": "https://github.com/Ruslan-Nazarov/yavira-updates/releases/download/v1.1.2/Yavira_Stock.apk",
-  "apkSha256": "C7C1F1CE15EE59B1314EF5D4CB8325A34CBC5BE587903D092E6E5092D8C58A19",
+  "apkSha256": "30C2EEE7FFFD4C93B3BFA8DFF4508C9179482A3C7D77F37E4264C52626759A1D",
   "signature": "3T+uhoY0SE7gPayF0sr7ezjL2J5Jchj0xWa7G7t37AM46NyhWT3Nmifsm4/SNI9yOY8qYIwBfzVBbViw58CFBxx9q5V3oaDQWEckuMirMurq9/WJLGYeBmSxiahixOwn8doUsUgjhEnOc8CDCZIIFv16trb7Ep2sDHkjMbMfVxlmCpqTvfQ62R0bhVT35YWloEcgmNp5Z6/3NGmfTJaMwjS0ZhrSq/hA8U269B/XICGSAnBLOBLDHyM9DZ1TDb1u+zS/KmfYtu6giSTilB1csWAXxpiJjSEzl8u/QBk99WT66l66UUygpF3w2cdsG+EnXCc9PqF3VqMwK162WhV/XCkLRS70M3HhH60WqTdBqgwcXdnZafWZjqwxzTCV3yFxNpWlJ/1mFdQGmPUNaF59hRLXezGipMcw+SK7vFSIesTScUuoJYExbrxuYOtnGjXukBYscw83OkF/MrmlYSi9yQfrD2TtpMFz7USAKiU9zfHUcFOVIcpT1PboI2mukUD1",
   "features": [
     "Раздельные криптографические ключи лицензий и обновлений",
