@@ -1,0 +1,21 @@
+{
+  "version": "1.1.2",
+  "channel": "stable",
+  "releaseDate": "2026-11-09",
+  "minOsVersion": "Windows 7 SP1 x64",
+  "installerFilename": "Yavira_Setup.exe",
+  "downloadUrl": "https://github.com/Ruslan-Nazarov/yavira-updates/releases/download/v1.1.2/Yavira_Setup.exe",
+  "size": 29005741,
+  "sha256": "6130B3000919CDF75260FE58990AACC03604D31F798F760E5108EE4DF4EC78C3",
+  "jarUrl": "https://github.com/Ruslan-Nazarov/yavira-updates/releases/download/v1.1.2/Yavira.jar",
+  "jarSha256": "A8CC48BBCF3443A32D0C1F4587FA24372ECB192B3716F14335C5BF0B4E293419",
+  "apkUrl": "https://github.com/Ruslan-Nazarov/yavira-updates/releases/download/v1.1.2/Yavira_Stock.apk",
+  "apkSha256": "1DF83DE1974CB2C5F6977F0598EDD1768E44F46972F4470D1C6E6E33A8FC5517",
+  "signature": "3T+uhoY0SE7gPayF0sr7ezjL2J5Jchj0xWa7G7t37AM46NyhWT3Nmifsm4/SNI9yOY8qYIwBfzVBbViw58CFBxx9q5V3oaDQWEckuMirMurq9/WJLGYeBmSxiahixOwn8doUsUgjhEnOc8CDCZIIFv16trb7Ep2sDHkjMbMfVxlmCpqTvfQ62R0bhVT35YWloEcgmNp5Z6/3NGmfTJaMwjS0ZhrSq/hA8U269B/XICGSAnBLOBLDHyM9DZ1TDb1u+zS/KmfYtu6giSTilB1csWAXxpiJjSEzl8u/QBk99WT66l66UUygpF3w2cdsG+EnXCc9PqF3VqMwK162WhV/XCkLRS70M3HhH60WqTdBqgwcXdnZafWZjqwxzTCV3yFxNpWlJ/1mFdQGmPUNaF59hRLXezGipMcw+SK7vFSIesTScUuoJYExbrxuYOtnGjXukBYscw83OkF/MrmlYSi9yQfrD2TtpMFz7USAKiU9zfHUcFOVIcpT1PboI2mukUD1",
+  "features": [
+    "Раздельные криптографические ключи лицензий и обновлений",
+    "Проверка подписи RSA-3072 манифеста обновления и SHA-256 установщика",
+    "Автоматический бэкап базы данных и настроек до наката обновления",
+    "Автономное мобильное приложение Yavira Stock (APK) для Android 5.0+"
+  ]
+}
