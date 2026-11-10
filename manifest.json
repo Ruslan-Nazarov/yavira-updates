@@ -1,12 +1,12 @@
 {
-  "version": "1.2.1",
+  "version": "1.2.2",
   "channel": "stable",
-  "sha256": "00771A0EC01CBD4F0A3E7A9DD81D8C113DB4498D2B06877FE8DB34A696270A6D",
-  "size": 30722893,
-  "downloadUrl": "https://github.com/Ruslan-Nazarov/yavira-updates/releases/download/v1.2.1/Yavira_Setup.exe",
+  "sha256": "7A30572C006371907B7A66DA902E30F09416DF333A47F28E85E777820FFED551",
+  "size": 30722238,
+  "downloadUrl": "https://github.com/Ruslan-Nazarov/yavira-updates/releases/download/v1.2.2/Yavira_Setup.exe",
   "releaseDate": "2026-11-10",
   "minOsVersion": "Windows 7 SP1 x64",
   "installerFilename": "Yavira_Setup.exe",
   "packageType": "standalone_installer",
-  "signature": "pU2Xa9/2dKjmzNUSZFEsM/nftw2L4SYej6TIiZ6QM/WKikA4oSKwymixVoYbUguYXJ376kc7T5k4kkMPBiZ9amV+PuECWU1xJwLNtHjNj4DY6NGhl8bEYqetFj1EuhlYmzotGf74DsRvmvdoHT3zPzvXHdO2oDod0QkbrJqSojZtAYMQQMNnXcpg22SLAHL4+VNCmmA/Tlhl+PK5ddmsOIYnEuqKYDegZkFObirer02Cru/lhENpr4mWOwIyOq2fkiZCXIRZYU9YYaYV/cQRlAaeWZNzNlBmrOgt4UiUXp53kCqGdZkm2i2UhSl61dJqtmhFaytfFKdMyLA0OEd+r/O6Qqts7aZnu5yQuVEf52q9u3j45UBy3p1/E3cOylIK4wq1okJijn3vkNvbaOP+RV1vptYJ4xPkzP5hztf1Jmxcw+0oxadx4Ytqqj9JWoSG0W7XzNb1G3zD8pePcrsGmQZXrvSvLu7IX1acdJxmkBNL/rNW23w/x92wd2agb/VL"
+  "signature": "fg7vIJ4GB2ayvbscz2LzmO2tcby2vNs/NKlJbxa4VCrbX1tHfTLwigxaKfp0BskjRYAYsnGfTepK/URT/N3qlPVpT3SSeD4VolbNyYFeUeTVls34I//wQ016twzHpXY4tdgO0bc3nUBz3dewcLHK8bcahf3bBpnEWrJJMz16X++hBqMrEnFDNenynOiqDWnKzF39m4rz6ayaBnJ+a8/kSOB1gGoS2GeJpUgaHGIGO43SvvByPgalvgg0qofQroJ8Mgumq0OJpWVxd7jNOFnRS6r0I3NGtzmRKBH5ey4FxXCQupDCC+m6K+H2q+eGhoijvr91KwZXXkSZKQOc3DNovr7wqL9+oYUZK0sMKvQw92j+baTJ2hd7z6vUKV2+tcTQwNjs4Du+Y9DptyBVk0hohX7tIBsYz6WT/9+ugF8ebnDhD1VyCknN0jdUVxzsCXqt84IGnaK8ioAVYbWusxkqDrRqUGRhex5EEAx8TWtD1+DF6NMWV4A/7EKxVvUOBqgJ"
 }
