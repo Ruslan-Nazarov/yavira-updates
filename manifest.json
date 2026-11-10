@@ -1,16 +1,12 @@
 {
-  "version": "1.1.3",
+  "version": "1.2.0",
   "channel": "stable",
-  "releaseDate": "2026-11-09",
+  "sha256": "A79B59A07DC2755052ECAABB967AB1F429F99B0EA34379FE4A80EF41F2740A9C",
+  "size": 30722478,
+  "downloadUrl": "https://github.com/Ruslan-Nazarov/yavira-updates/releases/download/v1.2.0/Yavira_Setup.exe",
+  "releaseDate": "2026-11-10",
   "minOsVersion": "Windows 7 SP1 x64",
-  "installerFilename": "Yavira.jar",
-  "downloadUrl": "https://github.com/Ruslan-Nazarov/yavira-updates/releases/download/v1.1.3/Yavira.jar",
-  "size": 1174371,
-  "sha256": "32BC22171619C6B4A2160310B980B6EA7EEAEA401A72925C79A41A6D9A72C87F",
-  "signature": "RICkXtDzGcwFI/kqbc8VQZSZuJsPo2r5MGuhbilKnuyyUCg5Hp9Hos93lgYBOCHV46ubP6+BbX12UkP9XCR5RR7P96/jFe8p4WKadYIyJAS08X4UWGIlelF9hsb1W4xuRLodvqDowQRQi8fmkFwsEMG+pmoNWKYnL/OblacyjolVgz+JocW0FrOaB2944tMXHgOTirS8oD58CoajVe6ITMN0SIRZcTNuvlGCsMsBR5i2Y6qmVfVpcQFOYlO85mxDUWgLP24DxblpJw9eHCIlT35ufmX+siWdrjzW132jIDl774CBV6HwXMxVIkN19TqUk8gQgYRD8dMw0o6VzAnsjwrNcvWsMwuXwfdTr96eklcItk2Y4q4W4FJiaMhV05EhppJ52z1/0pWuq8Qs7trqGWJ2Mw1CzubRPmilIygrtWICMyp+Cu5GkeLvrz6ftI4f3E0KQLjQ+vN9UOH8ToPc+XpfYvp0jIaaET/9WVw04+wgdK1+OU6Fot9LyUcvpzFG",
-  "features": [
-    "Тестовое автообновление через GitHub Releases",
-    "Визуальный бейдж успешного обновления во вкладке Настройки",
-    "Проверка подписи RSA-3072 манифеста обновления и SHA-256"
-  ]
+  "installerFilename": "Yavira_Setup.exe",
+  "packageType": "standalone_installer",
+  "signature": "K7cRsEC4LkYCh9z3RvYhhVU29XG7lOlqVCZLhNjshHZGo4FSiTbM7u4WVrJBlO5xIjhUV2F9Ly8ILWM1duA2acnNvHToBKruhLK+pawi+8g3cwxavEdWzlHxgLwIH3w5MY7YuWEyChXq2umU0abhyZ9G3eDDilr7yODQJ1t/xh+2ClfrLmmNkpjeKEtLzOnELXBfo6DF9iYOzkkt+hLkyjH8aS/dCJ8XTSxwh6mkKgFQdeNOByh1xa5VNU856K5WNvuMEEEUBB+qPmMCOSaYLxfGpxhawUqwn0KEpc8t/9WGGENwS+zO2P0Sf210AzTWXaYVtTbRfdR/l3stZv1WEzV1R8/tJIyXBf7SdJ08FFTnJsxVbagWzlcWUVIW62aIac4G0zQusNbwbujja32jQEvuin8sUyx1FDWB5ZvhjJSFqQ4t+Y0axMrmAzTaBPAKPmtAYGLdImQ51+Qn+rjyU/y6ZjboV3c04wkAZEjHCexb5HAg0IAXlvM2DmQDRZBk"
 }
